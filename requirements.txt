@@ -1,0 +1,8 @@
+streamlit
+pypdf
+langchain-text-splitters
+sentence-transformers
+chromadb
+groq
+python-dotenv
+rank-bm25
